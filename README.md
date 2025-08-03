@@ -7,7 +7,10 @@
 
 An end-to-end NLP pipeline to detect fake news using the BERT transformer model with an interactive web interface.
 
-![Fake News Detection Demo](./Screenshot%20%2882%29.png)
+![Fake News Detection Demo](./Screenshot/image1.png)
+
+###Main Interface
+![Main Interface](./Screenshot/image2.png)
 
 ## 📌 Project Overview
 
