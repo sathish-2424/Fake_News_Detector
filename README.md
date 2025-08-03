@@ -180,10 +180,10 @@ Licensed under [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- Author: Your Name
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
+- Author: sathish kumar
+- Email: Sathish9268@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sathishkumar32/
+- GitHub: [https://github.com/yourusername](https://github.com/sathish-2424)
 
 ---
 
