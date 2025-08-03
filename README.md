@@ -3,19 +3,16 @@ Here’s your **fully enhanced `README.md` file** with all professional UI/UX im
 ---
 
 ````markdown
-<h1 align="center">📰 Fake News Detection Using BERT</h1>
+# 📰 Fake News Detection Using BERT
 
-<p align="center">
-  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8+-blue.svg" /></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
-  <a href="https://sathish-2424.github.io/Fake_News_Detector/"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" /></a>
-  <a href="https://huggingface.co/bert-base-uncased"><img src="https://img.shields.io/badge/Model-BERT-green.svg" /></a>
-</p>
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![BERT](https://img.shields.io/badge/Model-BERT-green.svg)](https://huggingface.co/bert-base-uncased)
 
-<p align="center">
-  <img src="https://your-image-or-gif-link.com/demo.gif" alt="Fake News Detection Demo" width="80%" style="border-radius: 10px;" />
-</p>
+An end-to-end NLP pipeline to detect fake news using the BERT transformer model with an interactive web interface.
 
+![Fake News Detection Demo](./Screenshot%20%2882%29.png)
 ---
 
 ## 📌 Project Overview
